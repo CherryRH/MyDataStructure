@@ -1,4 +1,6 @@
-
 RedBlackTree/main.exe
-RedBlackTree/.vscode/tasks.json
-RedBlackTree/.vscode/launch.json
+RedBlackTree/.vscode/
+RedBlackTree/.idea/
+RedBlackTree/cmake-build-debug/
+RedBlackTree/cmake-build-debug-/
+RedBlackTree/cmake-build-debug-/
