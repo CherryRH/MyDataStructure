@@ -3,6 +3,11 @@ RedBlackTree/.vscode/
 RedBlackTree/.idea/
 RedBlackTree/cmake-build-debug/
 RedBlackTree/cmake-build-debug-/
+
 RadixTree/.idea/
 RadixTree/.vscode/
 RadixTree/cmake-build-debug/
+
+CompressedRadixTree/.idea/
+CompressedRadixTree/.vscode/
+CompressedRadixTree/cmake-build-debug/
