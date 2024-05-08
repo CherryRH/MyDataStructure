@@ -11,3 +11,7 @@ RadixTree/cmake-build-debug/
 CompressedRadixTree/.idea/
 CompressedRadixTree/.vscode/
 CompressedRadixTree/cmake-build-debug/
+
+SkipList/.idea/
+SkipList/.vscode/
+SkipList/cmake-build-debug/
